@@ -13,6 +13,6 @@ Table: symbolic files pointed to another GitHub Repository
   </tr>
   <tr>
     <td>Fuse and Straps Configuration.xlsm</td>
-    <td>https://github.com/jasonx-tsao/exp_vtb.git/ArchSpecs/Working/Fuse and Straps Configuration.xlsm</td>
+    <td>https://github.com/jasonx-tsao/exp_vtb.git/ArchSpecs/Working/'Fuse and Straps Configuration.xlsm'</td>
   </tr>
 </table>
